@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💬 I'm a <b>Full-Stack</b> (back-end focused) developer with <b>more than 5 years of professional experience</b> as a web developer helped software companies bring their ideas to life, fast and reliably.
+💬 I'm a <b>Full-Stack</b> developer with more than 7 years of professional experience as a web developer who helped software companies bring their ideas to life, fast and reliably. I like to learn new things and am ready for new challenges.
 
-⚡ I have working experience with <b>PHP & Python</b> as server-side languages and <b>HTML, CSS, JavaScript, React Js, Vue Js, Bootstrap</b> as client-side technologies also I have some experience in relational databases like <b>MySQL, SQLite, PostgreSQL</b> and in another side I have a fewer experience in document-based databases like <b>MongoDB</b>.
+⚡ I have working experience with <b>PHP & Python</b> as server-side languages and <b>HTML, CSS, and JavaScript</b> as client-side technologies also I have experience in relational databases like <b>MySQL, SQLite, and PostgreSQL</b>, and other side fewer experience in document-based databases like <b>MongoDB</b>. In addition, I have some experience with <b>Redis</b> for caching and queue making, and on the other side <b>RabbitMQ</b> for micro-services architecture. 
 
-🔭 As a developer, I have good experiences with <b>Git, Docker, Linux, Unit Testing, Test Driven Development, Web Services, Server Administration, Design Patterns</b>, and more.
+🔭 As a developer, I have good experience with <b>Git, Docker, Linux, Unit Testing, TDD, Web Services, Server Administration, Design Patterns, API (Restful API & GraphQL), and more.</b>
 
-👯 I have worked with <b>Agile & Scrum</b> software development methodology and familiar with some of the scrum definitions like <b>Sprint, Daily Standup, Retro, Review, KPI</b>, etc.
+👯 As a team player, I have worked with <b>Agile & Scrum</b> software development methodology and am familiar with some of the definitions like <b>Sprint, Retro, Review, KPI, etc.</b>
