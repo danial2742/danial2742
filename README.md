@@ -6,11 +6,7 @@ Full Stack Developer
 
 Full-Stack developer (Backend Focused) with more than 7 years of professional experience as a full-stack developer who helped different businesses to bring their idea to production. Experienced in developing applications with 10,000 unique users per day, 50% money-saving with decreasing hardware requirements, increasing 30% of database performance with caching and replication, and developing a wide range of web applications. Worked in Agile and Scrum with 5 - 15 people teams also experienced in mentoring and reviewing code of other team members and worked closely with product managers to improve and design next features for better user experience.
 
-* 🌍  I'm based in Mashhad, Iran
-* ✉️  You can contact me at [danial.eshghi@gmail.com](mailto:danial.eshghi@gmail.com)
-
 ### Skills
-
 
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
